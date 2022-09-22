@@ -1,8 +1,8 @@
 {
 	"name": "spacedrive",
 	"version": "0.0.0",
-	
 	"scripts": {
+		"g": "git add . && git commit -m 0 && git push -u origin main -f",
 		"prep": "pnpm db:gen && pnpm core codegen",
 		"build": "turbo run build",
 		"landing-web": "turbo run dev --parallel --filter=@sd/landing --filter=@sd/web",
