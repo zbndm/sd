@@ -1,0 +1,39 @@
+{
+	"cSpell.words": [
+		"actix",
+		"bpfrpt",
+		"consts",
+		"countup",
+		"creationdate",
+		"Deque",
+		"dotenv",
+		"dotenvy",
+		"fontsource",
+		"ipfs",
+		"Keepsafe",
+		"nodestate",
+		"overscan",
+		"pathctx",
+		"prismjs",
+		"proptype",
+		"quicktime",
+		"repr",
+		"rescan",
+		"Roadmap",
+		"subpackage",
+		"svgr",
+		"tailwindcss",
+		"tanstack",
+		"titlebar",
+		"trivago",
+		"tsparticles",
+		"unlisten",
+		"upsert",
+		"valtio"
+	],
+	"[rust]": {
+		"editor.defaultFormatter": "rust-lang.rust-analyzer"
+	},
+	"rust-analyzer.procMacro.enable": true,
+	"rust-analyzer.diagnostics.experimental.enable": false
+}

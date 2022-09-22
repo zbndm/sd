@@ -1,0 +1,10 @@
+{
+  "extends": "../../packages/config/interface.tsconfig.json",
+  "include": ["src"],
+  "ts-node": {
+    "transpileOnly": true,
+    "compilerOptions": {
+      "module": "CommonJS"
+    }
+  }
+}
